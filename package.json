@@ -1,0 +1,17 @@
+{
+  "name": "layout-creator",
+  "version": "1.0.0",
+  "description": "a web layout creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lc": "./bin/index.js"
+  },
+  "author": "amadeus9029",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
